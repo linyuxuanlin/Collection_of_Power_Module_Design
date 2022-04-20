@@ -1,1 +1,1 @@
-[电源方案（PMIC）- EA3036](https://wiki-power.com/%E7%94%B5%E6%BA%90%E6%96%B9%E6%A1%88%EF%BC%88PMIC%EF%BC%89-EA3036)
+[电源方案（PMIC）- EA3036](https://wiki-power.com/%E7%94%B5%E6%BA%90%E6%96%B9%E6%A1%88%EF%BC%88PMIC%EF%BC%89-EA3036C)
