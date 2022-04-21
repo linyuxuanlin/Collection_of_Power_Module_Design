@@ -76,6 +76,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DKISJMRT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EA3059\Design Rule Check - EA3059.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
